@@ -5,6 +5,7 @@ nav li{
     list-style: none;
     display: inline;
     margin-right: 50px;
+    text-align: center;
 }
 nav li:hover{
     background-color: aqua;
@@ -12,7 +13,11 @@ nav li:hover{
 }
 main article header h2{
     color: blue;
+    text-align: center;
 }
 footer{
     text-align: center;
+}
+#photo{
+    box-shadow: 5px 5px 5px 5px gray;
 }
