@@ -1,0 +1,31 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 100px;
+}
+nav li:hover{
+    background-color: aqua;
+} 
+nav li a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+main article header h2{
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+    background-origin: padding-box;
+    border: 2px solid lightgray;
+    width: 200px;
+    color: azure;
+    box-shadow: 5px 5px 10px grey;
+    
+}
+*{
+    background-color: bisque;
+}
+main article header img:hover{
+background-color: blue;
+}

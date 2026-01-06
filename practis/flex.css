@@ -1,0 +1,28 @@
+.contener div{
+    border: 2px solid grey;
+    height: 50px;
+    font-size: larger;
+    width: 50px;
+}
+.contener{
+    display: flex;
+}
+.box{
+    font-size: large;
+    height:50px;
+    width:500px;
+    border: 2px solid blueviolet;
+}
+.box-bro{
+    display: flex;
+    gap: 0px;
+}
+.user-blue{
+    border: 2px solid skyblue;
+    height: 100px;
+    width: 150px;
+    background-color: aquamarine;
+}
+.comment{
+    display: flex;
+}
